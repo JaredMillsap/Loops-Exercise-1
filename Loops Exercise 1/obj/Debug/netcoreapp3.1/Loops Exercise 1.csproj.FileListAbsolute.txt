@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.exe
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.deps.json
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.runtimeconfig.json
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.dll
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\bin\Debug\netcoreapp3.1\Loops Exercise 1.pdb
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.AssemblyInfo.cs
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.dll
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.pdb
+C:\Users\Student\source\repos\Loops Exercise 1\Loops Exercise 1\obj\Debug\netcoreapp3.1\Loops Exercise 1.genruntimeconfig.cache
